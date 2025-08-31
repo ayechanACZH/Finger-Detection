@@ -8,13 +8,6 @@ processes.
 * Built using OpenCV 2.4.12 on Python 2.7.10
 * Works on OpenCV 2.4.x, 3.2.x and Python 2.x, Python 3.x
 
-Video
-=====
-
-link: [http://goo.gl/fui2MH ](http://goo.gl/fui2MH)
-
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/QYiypuWZPU0/0.jpg)](https://www.youtube.com/watch?v=QYiypuWZPU0)
-
 
 Installing OpenCV 3.2 from source Python 3.6
 ============================================
@@ -48,6 +41,3 @@ Installing OpenCV 3.2 from source Python 3.6
 * `make -j4`
 * make install
 
-See Also
-========
-Playing Pacman with gestures: [Repository](http://github.com/vipul-sharma20/gesture-pacman)
